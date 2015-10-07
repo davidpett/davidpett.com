@@ -53,8 +53,27 @@ h2 {
     font-size: 3em;
   }
 }
+a {
+  color: #0D8DB8;
+  text-decoration: none;
+}
+
+.linkedin-button {
+  font-family: Helvetica,Arial,freesans,clean,sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+
+  a {
+    color: #333;
+  }
+}
 
 .buttons {
   padding: 100px 0;
   width: 100%;
+  iframe,
+  .linkedin-button {
+    display: block;
+    margin-bottom: 5px;
+  }
 }

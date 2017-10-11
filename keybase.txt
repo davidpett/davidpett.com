@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/davidpett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davidpett.com
+  * I am davidpett (https://keybase.io/davidpett) on keybase.
+  * I have a public key ASAy1QMPy88Xyjd8tFwdgn_JrU17OuX_1pdYnTkGzosnVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f83e23915fdfd493f1b53b6a27c88622492edf6357df524c042adedbb5c046c20a",
+      "host": "keybase.io",
+      "kid": "012032d5030fcbcf17ca377cb45c1d827fc9ad4d7b3ae5ffd697589d3906ce8b27560a",
+      "uid": "08339d6e7b4e5a9febc5d7a40482b200",
+      "username": "davidpett"
+    },
+    "merkle_root": {
+      "ctime": 1507731664,
+      "hash": "5b519d43c094fe0fb2be07f7a0a0c5d30bcd2f853ee26e9abb545d1ea725ed2a918f5736738f42febd1c8f1752072273868f1d9c9db4129f69a32745f099b306",
+      "hash_meta": "307abd298f3cbe6059ce713eb603cd9291d7fa202277715fdbb23ba659b51829",
+      "seqno": 1558873
+    },
+    "service": {
+      "hostname": "davidpett.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1507731679,
+  "expire_in": 504576000,
+  "prev": "6128a7381ae9ad8f8cc36ef496e0605164b384d737051eb758fd8eaf2ff7faae",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMtUDD8vPF8o3fLRcHYJ/ya1Nezrl/9aXWJ05Bs6LJ1YKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjgzZTIzOTE1ZmRmZDQ5M2YxYjUzYjZhMjdjODg2MjI0OTJlZGY2MzU3ZGY1MjRjMDQyYWRlZGJiNWMwNDZjMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzJkNTAzMGZjYmNmMTdjYTM3N2NiNDVjMWQ4MjdmYzlhZDRkN2IzYWU1ZmZkNjk3NTg5ZDM5MDZjZThiMjc1NjBhIiwidWlkIjoiMDgzMzlkNmU3YjRlNWE5ZmViYzVkN2E0MDQ4MmIyMDAiLCJ1c2VybmFtZSI6ImRhdmlkcGV0dCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzczMTY2NCwiaGFzaCI6IjViNTE5ZDQzYzA5NGZlMGZiMmJlMDdmN2EwYTBjNWQzMGJjZDJmODUzZWUyNmU5YWJiNTQ1ZDFlYTcyNWVkMmE5MThmNTczNjczOGY0MmZlYmQxYzhmMTc1MjA3MjI3Mzg2OGYxZDljOWRiNDEyOWY2OWEzMjc0NWYwOTliMzA2IiwiaGFzaF9tZXRhIjoiMzA3YWJkMjk4ZjNjYmU2MDU5Y2U3MTNlYjYwM2NkOTI5MWQ3ZmEyMDIyNzc3MTVmZGJiMjNiYTY1OWI1MTgyOSIsInNlcW5vIjoxNTU4ODczfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhdmlkcGV0dC5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yOCJ9LCJjdGltZSI6MTUwNzczMTY3OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI2MTI4YTczODFhZTlhZDhmOGNjMzZlZjQ5NmUwNjA1MTY0YjM4NGQ3MzcwNTFlYjc1OGZkOGVhZjJmZjdmYWFlIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA3ku3JX/f/aDD0XYWNm9L8Fhs7XPZxpOzJmNzLNLN3jRaJI4qSOyJC3MItYgrEIh7ji2uFKQTjY4Y2i3QUcwlCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINO5J0k38xCGV8UxakureNgI5F8eUDaSsj1IWAfAxlZqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidpett
+
+==================================================================
